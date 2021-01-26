@@ -10,7 +10,7 @@ Before you start working, add the extra remote repository for ps0. To do so, run
 
 To check for updates, run:
 
-`git pull distribution master`
+`git pull distribution main`
 
 You should run this periodically to check for updates.
 
